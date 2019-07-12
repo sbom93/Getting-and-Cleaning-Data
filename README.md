@@ -8,7 +8,7 @@ The code does the following
 4. Appropriately labels the data set with descriptive variable names.
 5. Print a tidy text file. 
 
-#Steps to work through this code
+# Steps to work through this code
 First download the data from the website or zip file 
 
 website : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
